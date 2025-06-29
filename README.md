@@ -23,20 +23,12 @@ Help the Cargoloop operations team identify which carrier delays payments most f
 
 ---
 
-## 💡 Recommendations
-- Prioritize automation or follow-up reminders for MSC.
-- Monitor weekly metrics to track improvements.
-- Share this dashboard with dispatch and billing teams to align actions.
-
----
-
 ## 🖼️ Dashboard Snapshot
 
 ![Dashboard](dashboard.png)
 
 ---
-
-## 🧠 Skills Demonstrated
-- Excel dashboarding
-- Pivot Table analysis
-- Business communication through data storytelling
+## 💡 Recommendations
+- Prioritize automation or follow-up reminders for MSC.
+- Monitor weekly metrics to track improvements.
+- Share this dashboard with dispatch and billing teams to align actions.
